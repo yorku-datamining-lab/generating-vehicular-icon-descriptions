@@ -20,4 +20,4 @@ There are 3 types of python scripts in this folder:
 
 - Evaluation and post-processing scripts that and compute various automated metrics and statistics.
 
- `run_eval.py`, `select_he_samples.py`, `clip.sh`
+  `run_eval.py`, `select_he_samples.py`, `clip.sh`
