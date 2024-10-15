@@ -1,0 +1,348 @@
+[
+    {
+        "id": "f0d496d6d4d299aa",
+        "image_file": "f0d496d6d4d299aa.png",
+        "manual": "Mazda",
+        "context": "If the brake system warning light and the ABS warning light turn on at the same time, stop the vehicle in a safe place immediately and contact an Authorized Mazda Dealer. The rear wheels could lock more quickly in an emergency stop than under normal circumstances which could result in an accident.",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This red dashboard icon depicts an exclamation mark with a circle drawn around it and the word \"BRAKE\" written below",
+                "The image contains a red colour pictogram of an exclamation mark inside a circle. the circle has two red arcs on both the left and right sides. At the bottom of the circle word \"BRAKE\" is written."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that a fault has occurred in the brake system of the vehicle."
+            ]
+        }
+    },
+    {
+        "id": "a2a9caa6d4d2ac11",
+        "image_file": "a2a9caa6d4d2ac11.png",
+        "manual": "Mopar",
+        "context": "Service AWD\n                Warning Light Service AWD Warning Light — If Equipped",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts the word \"SERV\" which represents service and the word \"AWD\" which represents four wheel drive. The word \"AWD\" is under the word \"SERV\"",
+                "The image shows a black solid square, against which are two sets of letters in capitals: \"SERV\" and below that \"AWD\". ",
+                "The image is the words SERV and AWD"
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that there is a problem with the vehicle's 4WD system."
+            ]
+        }
+    },
+    {
+        "id": "6b94cc6719ae5384",
+        "image_file": "6b94cc6719ae5384.png",
+        "manual": "Mopar",
+        "context": "Traction Battery Cut-off Warning\n                Light",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts a car battery with \"+\" and \"-\" symbols representing positive and negative terminals of the battery. The battery is crossed by a single line",
+                "This picture shows a black square with a white battery pictogram, crossed out by a diagonal white line."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates a problem or fault related to the traction battery system in hybrid or electric vehicles."
+            ]
+        }
+    },
+    {
+        "id": "4110f21333961084",
+        "image_file": "4110f21333961084.png",
+        "manual": "Mopar",
+        "context": "Hybrid Electric\n                                Vehicle System Failure Warning Light Hybrid Electric Vehicle System Failure Warning Light",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts a side view of an outline of a car with an exclamation mark in the middle of the car taking visibility priority over the car",
+                "There is a white outline of a vehicle intersected by a large vertical white exclamation mark in the middle on a black background."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates an issue within the hybrid electric vehicle system."
+            ]
+        }
+    },
+    {
+        "id": "24806c5754688028",
+        "image_file": "24806c5754688028.png",
+        "manual": "Mopar",
+        "context": "Auto HOLD! Fault Indicator Light Auto HOLD! Fault Indicator Light — If Equipped",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts the word \"HOLD\"",
+                "This image shows the word hold in all caps an exclamation point the end.",
+                "The image is of the word HOLD followed by an exclamation mark."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates a fault in the Auto Hold system of the vehicle."
+            ]
+        }
+    },
+    {
+        "id": "249038ec80c400a0",
+        "image_file": "249038ec80c400a0.png",
+        "manual": "Mopar",
+        "context": "Rear Cargo Door Warning Light",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts a side view of a car with the trunk open",
+                "The image shows the silhouette of a car with the trunk open  "
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the vehicle's trunk is not properly closed."
+            ]
+        }
+    },
+    {
+        "id": "5826a2b8a702a500",
+        "image_file": "5826a2b8a702a500.png",
+        "manual": "Mopar",
+        "context": "Speed Limiter Failure GUID-BF82A5C1-CC86-4484-8CB7-8E543055065C.html",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts the word \"LIM\" followed by an exclamation mark",
+                "This picture shows a black square containing the large white word \"lim\" followed by an exclamation mark.",
+                "The image is of the letters L I M with an exclamation mark to the right."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates an issue with the vehicle's speed limiter system."
+            ]
+        }
+    },
+    {
+        "id": "694dd4e8a2d46869",
+        "image_file": "694dd4e8a2d46869.png",
+        "manual": "Mopar",
+        "context": "Icy Road Condition Indicator\n                Light",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts a snowflake representing ice and freezing temperatures and behind the snowflake is a road to represent icy conditions on the road",
+                "A white snowflake close to the viewer with a white road in the foreground."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that there are potentially hazardous road conditions due to ice or freezing temperatures."
+            ]
+        }
+    },
+    {
+        "id": "006080c1f0dc2cd5",
+        "image_file": "006080c1f0dc2cd5.png",
+        "manual": "Mopar",
+        "context": "Press Brake Indicator Light",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts a shoe representing the driver's foot on a pedal representing the brake pedal",
+                "a white diagonal shoe symbol with a white diagonal line underneath it, all inside of a black box "
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the driver need to press the brake pedal in order to start the vehicle, especially in vehicles equipped with keyless ignition systems."
+            ]
+        }
+    },
+    {
+        "id": "9000d4d4dccc00c4",
+        "image_file": "9000d4d4dccc00c4.png",
+        "manual": "Mopar",
+        "context": "Speed Limiter READY",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This dashboard icon depicts the word \"LIM\"",
+                "The image contains 'LIM' written in white bold on a black background."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the Speed Limiter system is enabled and ready for activation by the driver."
+            ]
+        }
+    },
+    {
+        "id": "26d9d8d6d6d8d926",
+        "image_file": "26d9d8d6d6d8d926.png",
+        "manual": "Volvo",
+        "context": "High beams High beams on.",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This blue dashboard icon depicts a vehicle headlight with five horizontal lines representing beams of light emanating from the headlight",
+                "The image shows five parallel light blue lines stacked, next to a “D” shape outlined in light blue, filled with darker blue, all on a black background "
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the high beam headlights of the vehicle are on."
+            ]
+        }
+    },
+    {
+        "id": "0c73e00e31c66491",
+        "image_file": "0c73e00e31c66491.png",
+        "manual": "Volvo",
+        "context": "Emission control system Fault in emission control system. Have the vehicle checked by a workshop. Volvo recommends contacting an authorized Volvo workshop.",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This amber dashboard icon depicts a vehicle’s combustion engine",
+                "The image shows an orange pictogram of an engine."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "This icon indicates that an emissions-related fault has been detected with the vehicle’s engine"
+            ]
+        }
+    },
+    {
+        "id": "2bd45454d5d5d4e8",
+        "image_file": "2bd45454d5d5d4e8.png",
+        "manual": "Volvo",
+        "context": "Preconditioning Engine and passenger compartment heater/air conditioning is preconditioning the vehicle.",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This white dashboard icon depicts three wavy arrows that point upward. The arrows appear above a horizontal line.",
+                "The image shows three curved vertical arrows above a straight line.",
+                "Three white wavy arrows ascending from a horizontal line"
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the vehicle's preconditioning system is active and the engine area and passenger compartment are being heated/cooled as appropriate."
+            ]
+        }
+    },
+    {
+        "id": "0278d4c2c6d49804",
+        "image_file": "0278d4c2c6d49804.png",
+        "manual": "Volvo",
+        "context": "Passing beam failure There is an issue with the passing beam.",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This amber dashboard icon depicts a vehicle headlight with five diagonal lines representing beams of light emanating from the headlight",
+                "5 orange hamburger lines to the left of an orange half-oval "
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates a fault with the vehicle's passing beam headlights."
+            ]
+        }
+    },
+    {
+        "id": "d8d4c6d6d4d8cce4",
+        "image_file": "d8d4c6d6d4d8cce4.png",
+        "manual": "Volvo",
+        "context": "Automatic high beam on The automatic high beam is on.",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This blue dashboard icon depicts a vehicle headlight with five horizontal lines representing beams of light emanating from the headlight. The word \"AUTO\" appears below the headlight",
+                "A blue image of the word AUTO below a semicircle with multiple horizontal lines."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the active high beam feature of the headlights of the vehicle is activated and the headlights are on."
+            ]
+        }
+    },
+    {
+        "id": "48a060caca60a048",
+        "image_file": "48a060caca60a048.png",
+        "manual": "Volvo",
+        "context": "Left-hand direction indicator The left direction indicator is active and indicating a left turn. When there is a fault with the direction indicator, the symbol flashes twice as fast.",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This green dashboard icon depicts an arrow pointing to the left",
+                "This image shows a green arrow pointing to the left.",
+                "The image shows a green arrow pointing to the left."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the left turn signal is in use."
+            ]
+        }
+    },
+    {
+        "id": "8811d2c629d8c849",
+        "image_file": "8811d2c629d8c849.png",
+        "manual": "JLR",
+        "context": "See AUTONOMOUS EMERGENCY (AEB) BRAKING (RED) .",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This red dashboard icon depicts stylized representations of two vehicles. The front of one vehicle is close to the rear of the other vehicle and above the vehicle is a symbol depicting a collision or crash.",
+                "Outline of the rear of a car, in front of the outline of the front of a car. Above and centre is a star. All lines are in hazy red on a black background ",
+                "The image is a red pictogram of a star above the rear of a car and a front of another car"
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the vehicle’s autonomous emergency braking system is active or a collision threat is detected."
+            ]
+        }
+    },
+    {
+        "id": "b2694cf0f0557032",
+        "image_file": "b2694cf0f0557032.png",
+        "manual": "JLR",
+        "context": "See STEERING INTERVENTION (RED) .",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This red dashboard icon depicts a steering wheel",
+                "The image shows a red pictogram of a steering wheel."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "This icon indicates that the vehicle is providing an input into the steering of the vehicle."
+            ]
+        }
+    },
+    {
+        "id": "66d6bae2e2aae266",
+        "image_file": "66d6bae2e2aae266.png",
+        "manual": "JLR",
+        "context": "See POWER STEERING FAULT (YELLOW) .",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This yellow dashboard icon depicts a steering wheel with an exclamation mark next to it",
+                "A yellow steering wheel with a yellow exclamation mark to its right."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "This icon indicates that a fault has occurred in the vehicle’s power steering system."
+            ]
+        }
+    },
+    {
+        "id": "20d0c8a8c8ecbc34",
+        "image_file": "20d0c8a8c8ecbc34.png",
+        "manual": "JLR",
+        "context": "See SPEED LIMITER (GREEN) .",
+        "visual_descriptions": {
+            "ground-truth": [
+                "This green dashboard icon depicts a vehicle’s speedometer with a selection of lower speeds highlighted. The letters “LIM” appear below the speedometer.",
+                "The image shows a black background against which is a green gauge on the top left with a pie-piece shape highlighting three of six points on the dial. Below the guage are the capital letters \"LIM\" in green."
+            ]
+        },
+        "functional_descriptions": {
+            "ground-truth": [
+                "The icon indicates that the vehicle’s speed limiter feature is active."
+            ]
+        }
+    }
+]

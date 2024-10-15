@@ -1,0 +1,3 @@
+[submodule "clipscore"]
+	path = clipscore
+	url = git@github.com:jmhessel/clipscore.git
